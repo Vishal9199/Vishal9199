@@ -6,3 +6,9 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Vishal9199&show_icons=true&include_all_commits=true)](https://github.com/Vishal9199/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal9199&layout=compact)](https://github.com/Vishal9199/github-readme-stats)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,aws,gcp,azure,linux,ai,react,js,mysql,mongodb,flask,selenium,arduino,matlab,r,vscode,github,git" />
+  </a>
+</p>
