@@ -4,7 +4,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Vishal9199 alt=Vishal9199 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Vishal9199&show_icons=true&include_all_commits=true)](https://github.com/Vishal9199/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Vishal9199&show_icons=true&include_all_commits=false)](https://github.com/Vishal9199/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal9199&layout=compact)](https://github.com/Vishal9199/github-readme-stats)
 
 <p align="center">
